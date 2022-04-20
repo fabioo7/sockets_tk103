@@ -1,2 +1,2 @@
-# sockets_tk103
-soquete para ratreador  tk102/103
+# sockets_tk103/102
+soquete para rastreador de veiculo modelo tk102/103
